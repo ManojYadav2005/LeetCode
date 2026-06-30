@@ -12,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojYadav2005/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -38,6 +39,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/ManojYadav2005/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManojYadav2005/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojYadav2005/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ManojYadav2005/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/ManojYadav2005/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -53,6 +55,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/ManojYadav2005/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManojYadav2005/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojYadav2005/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ManojYadav2005/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ManojYadav2005/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -83,6 +86,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojYadav2005/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ManojYadav2005/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ManojYadav2005/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ManojYadav2005/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
