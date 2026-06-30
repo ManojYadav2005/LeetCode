@@ -50,7 +50,7 @@ public:
 
     int comp=0;
     for(int i=0;i<parent.size();i++){
-    if(find(i,parent) == i){
+    if(parent[i]==i){
     comp++;
     }
     }
