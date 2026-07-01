@@ -101,6 +101,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManojYadav2005/LeetCode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/ManojYadav2005/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/ManojYadav2005/LeetCode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/ManojYadav2005/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ManojYadav2005/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
