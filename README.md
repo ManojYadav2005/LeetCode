@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManojYadav2005/LeetCode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/ManojYadav2005/LeetCode/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -105,6 +106,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManojYadav2005/LeetCode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/ManojYadav2005/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/ManojYadav2005/LeetCode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0778-swim-in-rising-water) |
