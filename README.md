@@ -22,6 +22,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/ManojYadav2005/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ManojYadav2005/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2055-plates-between-candles](https://github.com/ManojYadav2005/LeetCode/tree/master/2055-plates-between-candles) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/ManojYadav2005/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -122,6 +123,7 @@
 | [0875-koko-eating-bananas](https://github.com/ManojYadav2005/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/ManojYadav2005/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2055-plates-between-candles](https://github.com/ManojYadav2005/LeetCode/tree/master/2055-plates-between-candles) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/ManojYadav2005/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Union-Find
 |  |
 | ------- |
