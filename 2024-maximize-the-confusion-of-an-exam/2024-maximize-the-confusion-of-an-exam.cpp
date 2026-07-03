@@ -1,58 +1,55 @@
 class Solution {
 public:
-
-    bool check(string &s, int len, int k){
-
-        int n = s.size();
-
-        int tCount = 0;
-        int fCount = 0;
-
-        for(int i = 0; i < len; i++){
-            if(s[i] == 'T') tCount++;
-            else fCount++;
-        }
-
-        if(tCount <= k || fCount <= k)
-            return true;
-
-        for(int i = len; i < n; i++){
-
-            if(s[i-len] == 'T') tCount--;
-            else fCount--;
-
-            if(s[i] == 'T') tCount++;
-            else fCount++;
-
-            if(tCount <= k || fCount <= k)
-                return true;
-        }
-
-        return false;
-    }
-
     int maxConsecutiveAnswers(string answerKey, int k) {
+      int n=answerKey.size();
 
-        int n = answerKey.size();
+      int cntf=0;
+      int i=0;
+      int j=0;
+      int maxi=INT_MIN;
+      while(j<n){
+      
+      // case 1 -F maankr chlee pehle
 
-        int lo = 1;
-        int hi = n;
+      if(answerKey[j]=='F'){
+        cntf++;
+      }
 
-        int ans = 1;
+      while(cntf>k){
+      
+      if(answerKey[i]=='F'){
+      cntf--;
+      }
+      i++;
+      }
+      maxi=max(maxi,j-i+1);
+      j++;
+      } 
 
-        while(lo <= hi){
 
-            int mid = lo + (hi - lo) / 2;
+      int cntt=0;
+       i=0;
+       j=0;
 
-            if(check(answerKey, mid, k)){
-                ans = mid;
-                lo = mid + 1;
-            }
-            else{
-                hi = mid - 1;
-            }
-        }
+      while(j<n){
+      
+      // case 1 -F maankr chlee pehle
 
-        return ans;
+      if(answerKey[j]=='T'){
+        cntt++;
+      }
+
+      while(cntt>k){
+      
+      if(answerKey[i]=='T'){
+      cntt--;
+      }
+      i++;
+      }
+      maxi=max(maxi,j-i+1);
+      j++;
+      }  
+      
+      return maxi;
     }
 };
