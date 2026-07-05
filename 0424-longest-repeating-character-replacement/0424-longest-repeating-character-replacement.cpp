@@ -13,7 +13,7 @@ public:
 
     if(((r-l+1) - maxf) > k){
     mpp[s[l]-'A']--;
-    maxf=0;
+  //  maxf=0;
     l++;
     }
     if(((r-l+1) -maxf) <= k){
