@@ -31,6 +31,7 @@
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ManojYadav2005/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2270-number-of-ways-to-split-array](https://github.com/ManojYadav2005/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManojYadav2005/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManojYadav2005/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ManojYadav2005/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ManojYadav2005/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -169,6 +172,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManojYadav2005/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManojYadav2005/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -190,6 +194,7 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -205,8 +210,17 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ManojYadav2005/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
