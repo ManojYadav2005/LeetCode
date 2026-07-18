@@ -30,6 +30,7 @@
 | [1539-kth-missing-positive-number](https://github.com/ManojYadav2005/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ManojYadav2005/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ManojYadav2005/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2055-plates-between-candles](https://github.com/ManojYadav2005/LeetCode/tree/master/2055-plates-between-candles) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ManojYadav2005/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ManojYadav2005/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -139,6 +140,7 @@
 | [0827-making-a-large-island](https://github.com/ManojYadav2005/LeetCode/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ManojYadav2005/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/ManojYadav2005/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
@@ -164,6 +166,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ManojYadav2005/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ManojYadav2005/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/ManojYadav2005/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ManojYadav2005/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/ManojYadav2005/LeetCode/tree/master/2055-plates-between-candles) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ManojYadav2005/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
