@@ -1,15 +1,15 @@
 class Solution {
 public:
-    int gdc(int mini,int maxi){
-     int idx;
-     for(int i=2;i<maxi;i++){
-     if(mini%i==0 && maxi%i==0){
-     idx=i;
-     return idx;
-     }
-     }
-     return 1;
-    }
+    // int gcd(int mini,int maxi){
+    //  int idx;
+    //  for(int i=2;i<maxi;i++){
+    //  if(mini%i==0 && maxi%i==0){
+    //  idx=i;
+    //  return idx;
+    //  }
+    //  }
+    //  return 1;
+    // }
 
     int findGCD(vector<int>& nums) {
       int n=nums.size();
