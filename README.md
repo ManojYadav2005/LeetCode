@@ -260,6 +260,7 @@
 | [0190-reverse-bits](https://github.com/ManojYadav2005/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ManojYadav2005/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ManojYadav2005/LeetCode/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/ManojYadav2005/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
