@@ -211,6 +211,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ManojYadav2005/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ManojYadav2005/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ManojYadav2005/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ManojYadav2005/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/ManojYadav2005/LeetCode/tree/master/2055-plates-between-candles) |
@@ -240,6 +241,7 @@
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ManojYadav2005/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManojYadav2005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
