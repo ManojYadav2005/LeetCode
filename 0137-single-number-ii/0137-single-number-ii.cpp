@@ -1,17 +1,13 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
+    int ones=0;
+    int twos=0;
     int n=nums.size();
-    
-    sort(nums.begin(),nums.end());
-
-    for(int i=0;i<n-1;i=i+3){
-    if(nums[i]==nums[i+1]){
-    continue; }
-    else if(nums[i]!=nums[i+1]){
-    return nums[i];
+    for(int i=0;i<n;i++){
+    ones=(ones^nums[i]) & ~(twos);
+    twos=(twos^nums[i]) & ~(ones);
     }
-    }
-    return nums[n-1];    
+    return ones;    
     }
 };
