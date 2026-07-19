@@ -245,6 +245,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ManojYadav2005/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ManojYadav2005/LeetCode/tree/master/0326-power-of-three) |
 | [0477-total-hamming-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/0477-total-hamming-distance) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManojYadav2005/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -284,4 +285,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ManojYadav2005/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ManojYadav2005/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
