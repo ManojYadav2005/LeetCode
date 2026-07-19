@@ -16,6 +16,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ManojYadav2005/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/ManojYadav2005/LeetCode/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0477-total-hamming-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -270,6 +271,7 @@
 | [0190-reverse-bits](https://github.com/ManojYadav2005/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ManojYadav2005/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ManojYadav2005/LeetCode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/ManojYadav2005/LeetCode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/ManojYadav2005/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/0477-total-hamming-distance) |
