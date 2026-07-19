@@ -40,6 +40,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ManojYadav2005/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ManojYadav2005/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2270-number-of-ways-to-split-array](https://github.com/ManojYadav2005/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2643-row-with-maximum-ones](https://github.com/ManojYadav2005/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/ManojYadav2005/LeetCode/tree/master/2951-find-the-peaks) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -276,6 +277,7 @@
 | [0461-hamming-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/0477-total-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ManojYadav2005/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
