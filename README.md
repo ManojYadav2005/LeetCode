@@ -30,6 +30,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManojYadav2005/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ManojYadav2005/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ManojYadav2005/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ManojYadav2005/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -55,6 +56,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojYadav2005/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ManojYadav2005/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/ManojYadav2005/LeetCode/tree/master/2055-plates-between-candles) |
 | [2270-number-of-ways-to-split-array](https://github.com/ManojYadav2005/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
@@ -254,6 +257,7 @@
 | [0342-power-of-four](https://github.com/ManojYadav2005/LeetCode/tree/master/0342-power-of-four) |
 | [0477-total-hamming-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/0477-total-hamming-distance) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManojYadav2005/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManojYadav2005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -276,6 +280,7 @@
 | [0342-power-of-four](https://github.com/ManojYadav2005/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/0477-total-hamming-distance) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ManojYadav2005/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
