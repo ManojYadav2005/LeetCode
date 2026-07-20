@@ -17,7 +17,7 @@ public:
      if(i==m-1 && j==n-1)
      continue;
      if(j==n-1){
-     v[i+1][0]=grid[i][j];
+     v[i+1][0]=grid[i][n-1];
      }
      else{
      v[i][j+1]=grid[i][j];}
