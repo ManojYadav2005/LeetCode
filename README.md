@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManojYadav2005/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ManojYadav2005/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/ManojYadav2005/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0137-single-number-ii) |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ManojYadav2005/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/ManojYadav2005/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ManojYadav2005/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/ManojYadav2005/LeetCode/tree/master/0190-reverse-bits) |
@@ -304,4 +306,8 @@
 | [0231-power-of-two](https://github.com/ManojYadav2005/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ManojYadav2005/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ManojYadav2005/LeetCode/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ManojYadav2005/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
