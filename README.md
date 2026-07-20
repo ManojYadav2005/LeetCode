@@ -44,6 +44,7 @@
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ManojYadav2005/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2270-number-of-ways-to-split-array](https://github.com/ManojYadav2005/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ManojYadav2005/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ManojYadav2005/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2643-row-with-maximum-ones](https://github.com/ManojYadav2005/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/ManojYadav2005/LeetCode/tree/master/2951-find-the-peaks) |
@@ -290,6 +291,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManojYadav2005/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ManojYadav2005/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ManojYadav2005/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ManojYadav2005/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
@@ -318,4 +320,8 @@
 | ------- |
 | [0078-subsets](https://github.com/ManojYadav2005/LeetCode/tree/master/0078-subsets) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManojYadav2005/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ManojYadav2005/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
