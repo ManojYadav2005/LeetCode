@@ -13,7 +13,6 @@ public:
      res=0;
      mxlen=0;
      }
-     
      if(maxi==nums[i]){
      mxlen++;
      }
