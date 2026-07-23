@@ -27,6 +27,7 @@
 | [0827-making-a-large-island](https://github.com/ManojYadav2005/LeetCode/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/ManojYadav2005/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ManojYadav2005/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ManojYadav2005/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManojYadav2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManojYadav2005/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -65,6 +66,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ManojYadav2005/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/ManojYadav2005/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojYadav2005/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManojYadav2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ManojYadav2005/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -259,6 +262,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManojYadav2005/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ManojYadav2005/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManojYadav2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/ManojYadav2005/LeetCode/tree/master/1695-maximum-erasure-value) |
