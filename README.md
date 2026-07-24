@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManojYadav2005/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ManojYadav2005/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -231,6 +232,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManojYadav2005/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -304,6 +306,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManojYadav2005/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -364,4 +367,12 @@
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
