@@ -39,6 +39,7 @@
 | [1260-shift-2d-grid](https://github.com/ManojYadav2005/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ManojYadav2005/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ManojYadav2005/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ManojYadav2005/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ManojYadav2005/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -110,6 +111,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManojYadav2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManojYadav2005/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ManojYadav2005/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ManojYadav2005/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/ManojYadav2005/LeetCode/tree/master/2055-plates-between-candles) |
@@ -278,6 +280,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ManojYadav2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManojYadav2005/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ManojYadav2005/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1695-maximum-erasure-value](https://github.com/ManojYadav2005/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ManojYadav2005/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ManojYadav2005/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
