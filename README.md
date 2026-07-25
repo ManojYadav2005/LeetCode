@@ -277,6 +277,7 @@
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/ManojYadav2005/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManojYadav2005/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -321,6 +322,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ManojYadav2005/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/ManojYadav2005/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManojYadav2005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManojYadav2005/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
