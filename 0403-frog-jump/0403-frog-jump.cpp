@@ -44,52 +44,41 @@ class Solution {
 public:
     vector<vector<int>> dp;
 
-    bool solve(int currston_idx,
-               int prevjp,
-               vector<int>& stones,
-               unordered_map<int,int>& mpp)
+    bool solve(int currston_idx,int prevjp,vector<int>& stones,unordered_map<int,int>& mpp,vector<vector<int>>& dp)
     {
-        if (currston_idx == stones.size() - 1)
-            return true;
+        if(currston_idx==stones.size()-1)return true;
 
-        if (dp[currston_idx][prevjp] != -1)
-            return dp[currston_idx][prevjp];
+        if(dp[currston_idx][prevjp]!= -1) return dp[currston_idx][prevjp];
 
-        bool result = false;
+        bool result=false;
 
-        for (int nxtjmp = prevjp - 1; nxtjmp <= prevjp + 1; nxtjmp++) {
+        for(int nxtjmp=prevjp-1;nxtjmp<=prevjp+1;nxtjmp++){
 
-            if (nxtjmp <= 0)
-                continue;
+        if(nxtjmp<=0)continue;
 
-            int nxtston = stones[currston_idx] + nxtjmp;
+        int nxtston=stones[currston_idx] + nxtjmp;
 
-            if (mpp.find(nxtston) != mpp.end()) {
+        if (mpp.find(nxtston) != mpp.end()) {
+        result=result|| solve(mpp[nxtston], nxtjmp, stones, mpp,dp);
 
-                result = result ||
-                         solve(mpp[nxtston], nxtjmp, stones, mpp);
-
-                if (result)
-                    break;
-            }
+        if(result) break;
         }
-
+        }
         return dp[currston_idx][prevjp] = result;
     }
 
     bool canCross(vector<int>& stones) {
 
-        if (stones[1] != 1)
-            return false;
+        if(stones[1]!=1) return false;
 
-        unordered_map<int,int> mpp;
+        unordered_map<int,int>mpp;
 
-        for (int i = 0; i < stones.size(); i++)
-            mpp[stones[i]] = i;
+        for(int i=0;i<stones.size();i++)
+        mpp[stones[i]]=i;
 
-        int n = stones.size();
-        dp.assign(n, vector<int>(n + 1, -1));
+        int n=stones.size();
+        vector<vector<int>> dp(n,vector<int>(n+1,-1));
 
-        return solve(1, 1, stones, mpp);
+        return solve(1,1,stones,mpp,dp);
     }
 };
