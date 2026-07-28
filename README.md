@@ -260,6 +260,7 @@
 | [0042-trapping-rain-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ManojYadav2005/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ManojYadav2005/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ManojYadav2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ManojYadav2005/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0213-house-robber-ii) |
@@ -335,6 +336,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ManojYadav2005/LeetCode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/ManojYadav2005/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ManojYadav2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ManojYadav2005/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ManojYadav2005/LeetCode/tree/master/0326-power-of-three) |
@@ -442,4 +444,8 @@
 | [1148-article-views-i](https://github.com/ManojYadav2005/LeetCode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ManojYadav2005/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/ManojYadav2005/LeetCode/tree/master/1683-invalid-tweets) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ManojYadav2005/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
