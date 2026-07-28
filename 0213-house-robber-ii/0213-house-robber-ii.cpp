@@ -10,7 +10,7 @@ public:
         for (int i=idx+1;i<=end;i++) {
             int steal=nums[i];
             if(i-2>=idx)
-            steal+=dp[i-2];
+            steal=steal+dp[i-2];
 
             int skip=dp[i-1];
 
