@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ManojYadav2005/LeetCode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ManojYadav2005/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -197,6 +198,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0778-swim-in-rising-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -261,6 +263,7 @@
 | [0045-jump-game-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ManojYadav2005/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ManojYadav2005/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ManojYadav2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ManojYadav2005/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0213-house-robber-ii) |
