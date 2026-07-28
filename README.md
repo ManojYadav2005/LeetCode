@@ -21,6 +21,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ManojYadav2005/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ManojYadav2005/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ManojYadav2005/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ManojYadav2005/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/ManojYadav2005/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ManojYadav2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManojYadav2005/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManojYadav2005/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ManojYadav2005/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ManojYadav2005/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ManojYadav2005/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -120,6 +123,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ManojYadav2005/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ManojYadav2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ManojYadav2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ManojYadav2005/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -299,6 +303,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ManojYadav2005/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ManojYadav2005/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ManojYadav2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
