@@ -1,28 +1,34 @@
 class Solution {
 public:
-    int solve(int idx,vector<int>&nums,int end,vector<int>&dp){
-    if(idx>end) return 0;
-    
-    if(dp[idx]!=-1) return dp[idx];
+    int solve(vector<int>& nums,int idx,int end) {
+        int n = nums.size();
 
-    int steal=nums[idx]+solve(idx+2,nums,end,dp);
-    int skip=solve(idx+1,nums,end,dp);
-    
-    dp[idx]=max(steal,skip);
-    return dp[idx];
+        vector<int> dp(n,0);
+
+        dp[idx]=nums[idx];
+
+        for (int i=idx+1;i<=end;i++) {
+            int steal=nums[i];
+            if(i-2>=idx)
+            steal+=dp[i-2];
+
+            int skip=dp[i-1];
+
+            dp[i]=max(steal,skip);
+        }
+
+        return dp[end];
     }
 
-    int rob(vector<int>& nums){
-     int n=nums.size();
-     if (n==1) return nums[0];   
+    int rob(vector<int>& nums) {
+        int n=nums.size();
 
-     vector<int>dp1(n+1,-1);
-     vector<int>dp2(n+1,-1);
+        if (n==1)
+        return nums[0];
 
-    int zrotolastone=solve(0,nums,n-2,dp1); 
-    int zronottak=solve(1,nums,n-1,dp2);
+        int case1=solve(nums,0,n-2); // Exclude last house
+        int case2=solve(nums,1,n-1); // Exclude first house
 
-    return max(zrotolastone,zronottak);
-
+        return max(case1,case2);
     }
 };
