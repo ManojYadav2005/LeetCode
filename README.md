@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/ManojYadav2005/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ManojYadav2005/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ManojYadav2005/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/ManojYadav2005/LeetCode/tree/master/0136-single-number) |
@@ -297,6 +298,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ManojYadav2005/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ManojYadav2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
@@ -359,6 +361,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ManojYadav2005/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ManojYadav2005/LeetCode/tree/master/0283-move-zeroes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManojYadav2005/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
