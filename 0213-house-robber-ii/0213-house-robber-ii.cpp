@@ -1,34 +1,26 @@
 class Solution {
 public:
-    int solve(vector<int>& nums,int idx,int end) {
-        int n = nums.size();
-
-        vector<int> dp(n,0);
-
-        dp[idx]=nums[idx];
+    int solve(vector<int>& nums, int idx, int end) {
+        int prev2=0;
+        int prev1=nums[idx];
 
         for (int i=idx+1;i<=end;i++) {
-            int steal=nums[i];
-            if(i-2>=idx)
-            steal=steal+dp[i-2];
+            int steal=nums[i]+prev2;
+            int skip=prev1;
 
-            int skip=dp[i-1];
+            int curr=max(steal,skip);
 
-            dp[i]=max(steal,skip);
+            prev2=prev1;
+            prev1=curr;
         }
-
-        return dp[end];
+        return prev1;
     }
 
     int rob(vector<int>& nums) {
         int n=nums.size();
 
-        if (n==1)
-        return nums[0];
+        if (n==1) return nums[0];
 
-        int case1=solve(nums,0,n-2); // Exclude last house
-        int case2=solve(nums,1,n-1); // Exclude first house
-
-        return max(case1,case2);
+        return max(solve(nums,0,n-2),solve(nums,1,n-1));
     }
 };
