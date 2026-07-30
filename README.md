@@ -36,6 +36,7 @@
 | [0403-frog-jump](https://github.com/ManojYadav2005/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/ManojYadav2005/LeetCode/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ManojYadav2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -326,6 +327,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ManojYadav2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/ManojYadav2005/LeetCode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -361,6 +363,7 @@
 | [0045-jump-game-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ManojYadav2005/LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/ManojYadav2005/LeetCode/tree/master/0455-assign-cookies) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ManojYadav2005/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ManojYadav2005/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -390,6 +393,7 @@
 | [0042-trapping-rain-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ManojYadav2005/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ManojYadav2005/LeetCode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/ManojYadav2005/LeetCode/tree/master/0455-assign-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManojYadav2005/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
