@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+# Write your MySQL query statement below
 SELECT a1.machine_id,
 round(AVG(a2.timestamp - a1.timestamp ),3) AS processing_time
 FROM Activity a1
