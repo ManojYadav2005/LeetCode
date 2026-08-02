@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/ManojYadav2005/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/ManojYadav2005/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/ManojYadav2005/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -231,6 +232,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ManojYadav2005/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ManojYadav2005/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -397,6 +399,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ManojYadav2005/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/ManojYadav2005/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ManojYadav2005/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ManojYadav2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ManojYadav2005/LeetCode/tree/master/0231-power-of-two) |
