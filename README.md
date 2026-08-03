@@ -96,6 +96,7 @@
 | [2643-row-with-maximum-ones](https://github.com/ManojYadav2005/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2951-find-the-peaks](https://github.com/ManojYadav2005/LeetCode/tree/master/2951-find-the-peaks) |
+| [2965-find-missing-and-repeated-values](https://github.com/ManojYadav2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3477-fruits-into-baskets-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -126,6 +127,7 @@
 | [1695-maximum-erasure-value](https://github.com/ManojYadav2005/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ManojYadav2005/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/ManojYadav2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -250,6 +252,7 @@
 | [1631-path-with-minimum-effort](https://github.com/ManojYadav2005/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/ManojYadav2005/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/ManojYadav2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -418,6 +421,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ManojYadav2005/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/ManojYadav2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ManojYadav2005/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManojYadav2005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
