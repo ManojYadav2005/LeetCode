@@ -179,6 +179,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ManojYadav2005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/ManojYadav2005/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ManojYadav2005/LeetCode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/ManojYadav2005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/ManojYadav2005/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -206,6 +208,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ManojYadav2005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/ManojYadav2005/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManojYadav2005/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojYadav2005/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -291,6 +294,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ManojYadav2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/ManojYadav2005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/ManojYadav2005/LeetCode/tree/master/0827-making-a-large-island) |
