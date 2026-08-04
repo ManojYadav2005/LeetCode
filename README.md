@@ -53,6 +53,7 @@
 | [0494-target-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ManojYadav2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ManojYadav2005/LeetCode/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ManojYadav2005/LeetCode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ManojYadav2005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ManojYadav2005/LeetCode/tree/master/0733-flood-fill) |
@@ -252,6 +254,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ManojYadav2005/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ManojYadav2005/LeetCode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/ManojYadav2005/LeetCode/tree/master/0827-making-a-large-island) |
@@ -333,6 +336,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManojYadav2005/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
