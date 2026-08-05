@@ -30,6 +30,7 @@
 | [0120-triangle](https://github.com/ManojYadav2005/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManojYadav2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ManojYadav2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/ManojYadav2005/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/ManojYadav2005/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -184,6 +185,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ManojYadav2005/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/ManojYadav2005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ManojYadav2005/LeetCode/tree/master/0733-flood-fill) |
@@ -200,6 +202,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ManojYadav2005/LeetCode/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/ManojYadav2005/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ManojYadav2005/LeetCode/tree/master/0547-number-of-provinces) |
@@ -258,6 +261,7 @@
 | [0064-minimum-path-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ManojYadav2005/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/ManojYadav2005/LeetCode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ManojYadav2005/LeetCode/tree/master/0733-flood-fill) |
@@ -309,6 +313,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ManojYadav2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/ManojYadav2005/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/ManojYadav2005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0778-swim-in-rising-water) |
