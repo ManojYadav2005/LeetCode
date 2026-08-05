@@ -116,6 +116,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ManojYadav2005/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ManojYadav2005/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/ManojYadav2005/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ManojYadav2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ManojYadav2005/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0229-majority-element-ii) |
@@ -206,6 +207,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ManojYadav2005/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ManojYadav2005/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ManojYadav2005/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ManojYadav2005/LeetCode/tree/master/0322-coin-change) |
@@ -376,6 +378,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ManojYadav2005/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/ManojYadav2005/LeetCode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManojYadav2005/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ManojYadav2005/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -581,4 +584,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ManojYadav2005/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
