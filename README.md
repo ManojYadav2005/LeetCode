@@ -116,6 +116,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ManojYadav2005/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ManojYadav2005/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ManojYadav2005/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ManojYadav2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ManojYadav2005/LeetCode/tree/master/0169-majority-element) |
@@ -207,6 +208,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ManojYadav2005/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ManojYadav2005/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ManojYadav2005/LeetCode/tree/master/0200-number-of-islands) |
@@ -378,6 +380,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ManojYadav2005/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ManojYadav2005/LeetCode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManojYadav2005/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
@@ -531,6 +534,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ManojYadav2005/LeetCode/tree/master/0078-subsets) |
+| [0126-word-ladder-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0494-target-sum) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManojYadav2005/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
@@ -587,5 +591,6 @@
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ManojYadav2005/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
