@@ -33,12 +33,13 @@ public:
     for(auto it: adj[node]){
     int adjnode=it.first;
     int wt=it.second;
+
     if(dis+wt<dist[adjnode]){
     dist[adjnode]=dis+wt;
-    pq.push({dist[adjnode], adjnode});
-     }
+    pq.push({dist[adjnode], adjnode});}
     }
     } 
+    
     int maxi=0;
     for(int i=1;i<=n;i++){
     if(dist[i]==1e9) return -1;
