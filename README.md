@@ -629,4 +629,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/ManojYadav2005/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/ManojYadav2005/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
