@@ -45,9 +45,9 @@ int find(int i,vector<int>&parent){
 
     int components=n;
 
-    for(auto &vec:connections){
-    if(find(vec[0],parent)!=find(vec[1],parent)){
-    Union(vec[0],vec[1],parent,rank);
+    for(auto &it:connections){
+    if(find(it[0],parent)!=find(it[1],parent)){
+    Union(it[0],it[1],parent,rank);
     components--;
     }
     }
