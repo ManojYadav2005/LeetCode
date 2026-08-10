@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int ub(vector<int>& nums, int target){
+    int ub(vector<int>& nums,int target){
     int lo=0;
     int n=nums.size();
     int hi=n-1;
@@ -9,12 +9,13 @@ public:
 
     while(lo<=hi){
     int mid=lo+(hi-lo)/2;
-    if(target>=nums[mid]){
+    if(nums[mid]<=target){
     idx=mid;
     lo=mid+1;
     }
     else{
-    hi=mid-1; }
+     hi=mid-1;   
+     }
     }
     return idx;
     }
@@ -27,13 +28,12 @@ public:
 
     while(lo<=hi){
     int mid=lo+(hi-lo)/2;
-    if(target>nums[mid]){
-    lo=mid+1;
+    if(nums[mid]>=target){
+    hi=mid-1;
+    idx=mid;
     }
     else{
-    idx=mid;
-    hi=mid-1;
-     }
+    lo=mid+1;}
     }
     return idx;
     }
@@ -42,7 +42,7 @@ public:
      int first=lb(nums,target);
      int second=ub(nums,target);
 
-     if(first == -1 || nums[first] != target)
+     if(first==-1 || nums[first]!=target)
      return {-1,-1};
      return {first,second};
     }
