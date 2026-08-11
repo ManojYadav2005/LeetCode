@@ -1,33 +1,35 @@
 class Solution {
 public:
-    int check(int mid,int n,vector<int>&piles){
-    
-    int totlhrs=0;
+    long long int solve(int mid,vector<int>& piles,int n){
+    long long int sm=0;
     for(int i=0;i<n;i++){
-    totlhrs+=(piles[i]+mid-1)/mid;
+    sm=sm+(piles[i]+mid-1)/mid;
     }
-    return totlhrs;
+    return sm;
     }
 
     int minEatingSpeed(vector<int>& piles, int h) {
-
-    int n=piles.size();
-    int lo=1;
-    int hi=*max_element(piles.begin(),piles.end());
     
-    while(lo<hi){
-    int mid=lo+(hi-lo)/2;
+    int n=piles.size();
 
-    int find=check(mid,n,piles);
-
-    if(find<=h){
-    hi=mid;
+    long long int lo=1;
+     int maxi=INT_MIN;
+    for(int i=0;i<n;i++){
+    maxi=max(maxi,piles[i]);
+    }
+    long long int hi=maxi; 
+    
+    while(lo<=hi){
+    long long int mid=lo+(hi-lo)/2;
+    
+    long long int findmin=solve(mid,piles,n);
+    if(findmin<=h){
+    hi=mid-1;
     }
     else{
     lo=mid+1;
     }
-
-    }
-    return lo;
+    }  
+    return lo; 
     }
 };
