@@ -1,52 +1,43 @@
 class Solution {
 public:
-    bool check(vector<int>& bloomDay,int mid,int m,int k){
-    int cnt=0;
-    int kcnt=0;
-    int n=bloomDay.size();
+     int canmakebouque(int day,vector<int>&bloomDay,int m,int k,int n){
+     
+     int cnt=0;
+     int bqts=0;
+     for(int i=0;i<n;i++){
 
-    for(int i=0;i<n;i++){
-    if(bloomDay[i]<=mid){
-    kcnt++;
-    }
-    else{
-    kcnt=0;}
-    if(kcnt==k){
-    cnt++;
-    kcnt=0;}
-    }
+     if(bloomDay[i]<=day){
+     cnt++;
+     if(cnt==k){
+     bqts++;
+     cnt=0;}
     
-     return cnt>=m;
-    }
-    int minDays(vector<int>& bloomDay, int m, int k) {
-
-    int n=bloomDay.size();
-
-    if(1LL * m * k > n) return -1;
-
-    int maxi=INT_MIN;
-    for(int i=0;i<n;i++){
-    maxi=max(maxi,bloomDay[i]);
-    }
-
-    int lo=0;
-    int hi=maxi;
-    int result=-1;
-
-    while(lo<=hi){
+     }
+     else{
+      cnt=0;
+     }
+     }
+     return bqts;
+     }
     
-    int mid=lo+(hi-lo)/2;
-    
-   
-    if(check(bloomDay,mid,m,k)){ // kya mein bna paa rha hu if haan toh phir aur minimum mein bnao
-    result=mid;
-    hi=mid-1; // minimum dhoonda left mein
-    
-    }
-    else{
+    int minDays(vector<int>& bloomDay,int m,int k){
+     
+     int lo=*min_element(bloomDay.begin(),bloomDay.end());
+     int hi=*max_element(bloomDay.begin(),bloomDay.end());
+     int n=bloomDay.size();
+     
+     int ans=-1;
+     while(lo<=hi){
+     int mid=lo+(hi-lo)/2;
+
+     if(canmakebouque(mid,bloomDay,m,k,n)>=m){
+        ans=mid;
+        hi=mid-1;
+     }
+     else{
         lo=mid+1;
-    }
-    } 
-    return result;   
+     }
+     }  
+     return ans;
     }
 };
