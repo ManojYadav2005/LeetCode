@@ -1,51 +1,42 @@
 class Solution {
 public:
-
-    int solve(int mid,vector<int>& weights, int days){
+    int solve(int capacity,vector<int>& weights,int n){
     int cnt=1;
     int sm=0;
-    int n=weights.size();
-
     for(int i=0;i<n;i++){
-    if(sm+weights[i]<=mid){
+    if(sm+weights[i]<=capacity){
     sm=sm+weights[i];
     } 
-    else{
-    cnt++;   
-    sm=weights[i];
-
-    }  
+    else {
+    sm=weights[i]; 
+    cnt++;}
     }
     return cnt;
     }
 
     int shipWithinDays(vector<int>& weights, int days) {
 
-
     int n=weights.size();
+    int lo=1;
     int sm=0;
-    int maxi=INT_MIN;
     for(int i=0;i<n;i++){
     sm=sm+weights[i];
-    maxi=max(maxi,weights[i]);
-    }
-    int lo=maxi;
-    int hi=sm;    
+    }   
+    int hi=sm;
     int ans=0;
-
     while(lo<=hi){
     int mid=lo+(hi-lo)/2;
-    
-    int res=solve(mid,weights,days);
-    if(res<=days){
+
+    int find=solve(mid,weights,n);
+
+    if(find<=days){
     hi=mid-1;
     ans=mid;
     }
-    else if(res>=days){
+    else{
     lo=mid+1;
-    
     }
-    }
-    return ans;
+    } 
+     return ans;
     }
 };
