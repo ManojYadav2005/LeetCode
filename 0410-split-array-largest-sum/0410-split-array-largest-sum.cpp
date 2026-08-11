@@ -1,44 +1,44 @@
 class Solution {
 public:
-    bool Isallocate(vector<int>&nums,int k,int mid,int n){
-    
+    int solve(int capacity,vector<int>& nums,int k,int n){
+    int sm=0;
     int cnt=1;
-    int pgs=0;
+
     for(int i=0;i<n;i++){
-    if(pgs+nums[i]<=mid){
-    pgs+=nums[i];
+    if(sm+nums[i]<=capacity){
+    sm=sm+nums[i];
     }
     else{
-    pgs=nums[i];
+    sm=nums[i];
     cnt++;
     }
     }
-    if(cnt<=k) return true;
-    else return false;
+    return cnt;
     }
 
     int splitArray(vector<int>& nums, int k) {
+    int lo=*min_element(nums.begin(),nums.end());
+    
+    int ans=0;
+    int n=nums.size();
+    int sm=0;
+    for(int i=0;i<n;i++){
+    sm=sm+nums[i];
+    }
+    int hi=sm;
 
-     int n=nums.size();
-     int sm=0;
-     for(int i=0;i<n;i++){
-     sm=sm+nums[i];
-     }  
+    while(lo<=hi){
+    int mid=lo+(hi-lo)/2;
 
-     int lo=*max_element(nums.begin(),nums.end());
-     int hi=sm;
-     int res=-1;
-     while(lo<=hi){
-     int mid=lo+(hi-lo)/2;
-
-     if(Isallocate(nums,k,mid,n)==true){
-     hi=mid-1;
-     res=mid;
-     }
-     else{
-        lo=mid+1;
-     }
-     } 
-     return res;
+    int find=solve(mid,nums,k,n);
+    if(find<=k){
+    hi=mid-1;
+    ans=mid;
+    }
+    else{
+    lo=mid+1;
+    }
+    } 
+    return ans;    
     }
 };
