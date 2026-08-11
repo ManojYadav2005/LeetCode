@@ -613,6 +613,7 @@
 | [1667-fix-names-in-a-table](https://github.com/ManojYadav2005/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/ManojYadav2005/LeetCode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/ManojYadav2005/LeetCode/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ManojYadav2005/LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1934-confirmation-rate](https://github.com/ManojYadav2005/LeetCode/tree/master/1934-confirmation-rate) |
 ## Combinatorics
 |  |
