@@ -144,6 +144,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManojYadav2005/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/ManojYadav2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManojYadav2005/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/ManojYadav2005/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -417,6 +418,7 @@
 | [2055-plates-between-candles](https://github.com/ManojYadav2005/LeetCode/tree/master/2055-plates-between-candles) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManojYadav2005/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -460,6 +462,7 @@
 | [2401-longest-nice-subarray](https://github.com/ManojYadav2005/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManojYadav2005/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManojYadav2005/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Interactive
 |  |
 | ------- |
