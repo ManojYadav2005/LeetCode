@@ -479,6 +479,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ManojYadav2005/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/ManojYadav2005/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ManojYadav2005/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ManojYadav2005/LeetCode/tree/master/0062-unique-paths) |
@@ -564,6 +565,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ManojYadav2005/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ManojYadav2005/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ManojYadav2005/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ManojYadav2005/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -693,6 +695,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ManojYadav2005/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManojYadav2005/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ManojYadav2005/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
