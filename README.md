@@ -61,6 +61,7 @@
 | [0704-binary-search](https://github.com/ManojYadav2005/LeetCode/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ManojYadav2005/LeetCode/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/ManojYadav2005/LeetCode/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/ManojYadav2005/LeetCode/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/ManojYadav2005/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -558,6 +559,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ManojYadav2005/LeetCode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/ManojYadav2005/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ManojYadav2005/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3477-fruits-into-baskets-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -598,6 +600,7 @@
 | [0042-trapping-rain-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ManojYadav2005/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ManojYadav2005/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/ManojYadav2005/LeetCode/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
