@@ -611,6 +611,7 @@
 | [0402-remove-k-digits](https://github.com/ManojYadav2005/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ManojYadav2005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ManojYadav2005/LeetCode/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/ManojYadav2005/LeetCode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -618,6 +619,7 @@
 | [0085-maximal-rectangle](https://github.com/ManojYadav2005/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/ManojYadav2005/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ManojYadav2005/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/ManojYadav2005/LeetCode/tree/master/0901-online-stock-span) |
 ## Quickselect
 |  |
 | ------- |
@@ -747,4 +749,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ManojYadav2005/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ManojYadav2005/LeetCode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ManojYadav2005/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
