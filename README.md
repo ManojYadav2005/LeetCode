@@ -89,6 +89,7 @@
 | [1539-kth-missing-positive-number](https://github.com/ManojYadav2005/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ManojYadav2005/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ManojYadav2005/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1652-defuse-the-bomb](https://github.com/ManojYadav2005/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/ManojYadav2005/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1765-map-of-highest-peak](https://github.com/ManojYadav2005/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -471,6 +472,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ManojYadav2005/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ManojYadav2005/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1652-defuse-the-bomb](https://github.com/ManojYadav2005/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/ManojYadav2005/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ManojYadav2005/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ManojYadav2005/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
