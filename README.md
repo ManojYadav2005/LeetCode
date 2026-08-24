@@ -66,6 +66,7 @@
 | [0735-asteroid-collision](https://github.com/ManojYadav2005/LeetCode/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/ManojYadav2005/LeetCode/tree/master/0827-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/ManojYadav2005/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ManojYadav2005/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ManojYadav2005/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -493,6 +494,7 @@
 | [0402-remove-k-digits](https://github.com/ManojYadav2005/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ManojYadav2005/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/ManojYadav2005/LeetCode/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/ManojYadav2005/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ManojYadav2005/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ManojYadav2005/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
