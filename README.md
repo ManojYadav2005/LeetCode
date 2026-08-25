@@ -788,4 +788,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ManojYadav2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ManojYadav2005/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
