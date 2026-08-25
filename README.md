@@ -54,6 +54,7 @@
 | [0403-frog-jump](https://github.com/ManojYadav2005/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ManojYadav2005/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ManojYadav2005/LeetCode/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0494-target-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0494-target-sum) |
@@ -400,6 +401,7 @@
 | [0403-frog-jump](https://github.com/ManojYadav2005/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ManojYadav2005/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0542-01-matrix) |
@@ -454,6 +456,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ManojYadav2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/ManojYadav2005/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ManojYadav2005/LeetCode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -498,6 +501,7 @@
 | [0135-candy](https://github.com/ManojYadav2005/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/ManojYadav2005/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ManojYadav2005/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ManojYadav2005/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/ManojYadav2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ManojYadav2005/LeetCode/tree/master/0860-lemonade-change) |
