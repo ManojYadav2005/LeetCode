@@ -5,15 +5,17 @@ public:
     vector<vector<int>>merged;
     sort(intervals.begin(), intervals.end());
 
-    for(auto it:intervals){
-    
-    if(merged.empty() || merged.back()[1]<it[0]){
-    merged.push_back(it);
+    for(int i=0;i<n;i++){
+    if(merged.empty()){
+    merged.push_back({intervals[i][0],intervals[i][1]});
     }
-    else{
-    merged.back()[1]=max(merged.back()[1],it[1]);
+    if(merged.back()[1]>=intervals[i][0]){
+    merged.back()[1]=max({merged.back()[1],intervals[i][1]});
     }
-    }  
+    else if(merged.back()[1]<intervals[i][0]){
+    merged.push_back({intervals[i][0],intervals[i][1]});
+    }
+    }
     return merged;
     }
 };
