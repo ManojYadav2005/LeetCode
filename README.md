@@ -215,6 +215,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/ManojYadav2005/LeetCode/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ManojYadav2005/LeetCode/tree/master/0200-number-of-islands) |
@@ -240,6 +241,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ManojYadav2005/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ManojYadav2005/LeetCode/tree/master/0130-surrounded-regions) |
@@ -802,11 +804,13 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
