@@ -147,6 +147,7 @@
 | [0904-fruit-into-baskets](https://github.com/ManojYadav2005/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojYadav2005/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ManojYadav2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManojYadav2005/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -232,6 +233,7 @@
 | [0802-find-eventual-safe-states](https://github.com/ManojYadav2005/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/ManojYadav2005/LeetCode/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManojYadav2005/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/ManojYadav2005/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ManojYadav2005/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/ManojYadav2005/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -259,6 +261,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManojYadav2005/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ManojYadav2005/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/ManojYadav2005/LeetCode/tree/master/0827-making-a-large-island) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/ManojYadav2005/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ManojYadav2005/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -463,6 +466,7 @@
 | [0435-non-overlapping-intervals](https://github.com/ManojYadav2005/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ManojYadav2005/LeetCode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -807,12 +811,14 @@
 | [0100-same-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
