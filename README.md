@@ -224,6 +224,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ManojYadav2005/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/ManojYadav2005/LeetCode/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ManojYadav2005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -654,6 +655,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ManojYadav2005/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ManojYadav2005/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ManojYadav2005/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/ManojYadav2005/LeetCode/tree/master/0402-remove-k-digits) |
@@ -773,6 +775,7 @@
 | [0002-add-two-numbers](https://github.com/ManojYadav2005/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManojYadav2005/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ManojYadav2005/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ManojYadav2005/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/ManojYadav2005/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ManojYadav2005/LeetCode/tree/master/0146-lru-cache) |
@@ -828,6 +831,7 @@
 | [0100-same-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ManojYadav2005/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ManojYadav2005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -841,6 +845,7 @@
 | [0100-same-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ManojYadav2005/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ManojYadav2005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
