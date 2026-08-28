@@ -231,6 +231,7 @@
 | [0207-course-schedule](https://github.com/ManojYadav2005/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ManojYadav2005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
@@ -261,6 +262,7 @@
 | [0200-number-of-islands](https://github.com/ManojYadav2005/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ManojYadav2005/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/ManojYadav2005/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ManojYadav2005/LeetCode/tree/master/0547-number-of-provinces) |
@@ -449,6 +451,7 @@
 | [0076-minimum-window-substring](https://github.com/ManojYadav2005/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ManojYadav2005/LeetCode/tree/master/0127-word-ladder) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/ManojYadav2005/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManojYadav2005/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/ManojYadav2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -801,6 +804,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ManojYadav2005/LeetCode/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/ManojYadav2005/LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -827,6 +831,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ManojYadav2005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -839,6 +844,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ManojYadav2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ManojYadav2005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
