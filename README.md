@@ -65,6 +65,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ManojYadav2005/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ManojYadav2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/ManojYadav2005/LeetCode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/ManojYadav2005/LeetCode/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ManojYadav2005/LeetCode/tree/master/0733-flood-fill) |
@@ -148,6 +149,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ManojYadav2005/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ManojYadav2005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ManojYadav2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/ManojYadav2005/LeetCode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ManojYadav2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -204,6 +206,7 @@
 | [0169-majority-element](https://github.com/ManojYadav2005/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ManojYadav2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ManojYadav2005/LeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ManojYadav2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ManojYadav2005/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -322,6 +325,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ManojYadav2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ManojYadav2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ManojYadav2005/LeetCode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/ManojYadav2005/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ManojYadav2005/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManojYadav2005/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -491,6 +495,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ManojYadav2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ManojYadav2005/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ManojYadav2005/LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/ManojYadav2005/LeetCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/ManojYadav2005/LeetCode/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -537,6 +542,7 @@
 | [0410-split-array-largest-sum](https://github.com/ManojYadav2005/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ManojYadav2005/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ManojYadav2005/LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/ManojYadav2005/LeetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/ManojYadav2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ManojYadav2005/LeetCode/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/ManojYadav2005/LeetCode/tree/master/1386-cinema-seat-allocation) |
