@@ -124,6 +124,7 @@
 | [3477-fruits-into-baskets-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManojYadav2005/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/ManojYadav2005/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManojYadav2005/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -172,6 +173,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManojYadav2005/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManojYadav2005/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManojYadav2005/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/ManojYadav2005/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -297,6 +299,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManojYadav2005/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ManojYadav2005/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ManojYadav2005/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManojYadav2005/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -363,6 +366,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/ManojYadav2005/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/ManojYadav2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManojYadav2005/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -622,6 +626,7 @@
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ManojYadav2005/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManojYadav2005/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
 |  |
 | ------- |
