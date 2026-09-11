@@ -122,6 +122,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManojYadav2005/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ManojYadav2005/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManojYadav2005/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -174,6 +175,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManojYadav2005/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManojYadav2005/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ManojYadav2005/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManojYadav2005/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/ManojYadav2005/LeetCode/tree/master/3731-find-missing-elements) |
@@ -661,6 +663,7 @@
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ManojYadav2005/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2951-find-the-peaks](https://github.com/ManojYadav2005/LeetCode/tree/master/2951-find-the-peaks) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ManojYadav2005/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -671,6 +674,7 @@
 | [0234-palindrome-linked-list](https://github.com/ManojYadav2005/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ManojYadav2005/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ManojYadav2005/LeetCode/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ManojYadav2005/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
