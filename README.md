@@ -583,6 +583,7 @@
 | [0326-power-of-three](https://github.com/ManojYadav2005/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ManojYadav2005/LeetCode/tree/master/0342-power-of-four) |
 | [0477-total-hamming-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0836-rectangle-overlap](https://github.com/ManojYadav2005/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManojYadav2005/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManojYadav2005/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -948,4 +949,8 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/ManojYadav2005/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ManojYadav2005/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
