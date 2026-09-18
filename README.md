@@ -167,6 +167,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ManojYadav2005/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/ManojYadav2005/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManojYadav2005/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1695-maximum-erasure-value](https://github.com/ManojYadav2005/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ManojYadav2005/LeetCode/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -494,6 +495,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/ManojYadav2005/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManojYadav2005/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojYadav2005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManojYadav2005/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ManojYadav2005/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/ManojYadav2005/LeetCode/tree/master/2055-plates-between-candles) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -520,6 +522,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ManojYadav2005/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManojYadav2005/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -566,6 +569,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ManojYadav2005/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ManojYadav2005/LeetCode/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/ManojYadav2005/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ManojYadav2005/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ManojYadav2005/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ManojYadav2005/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
