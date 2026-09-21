@@ -123,6 +123,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManojYadav2005/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ManojYadav2005/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ManojYadav2005/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -465,6 +466,7 @@
 | [1140-stone-game-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/1140-stone-game-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManojYadav2005/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManojYadav2005/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3524-find-x-value-of-array-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManojYadav2005/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
 |  |
@@ -595,6 +597,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManojYadav2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ManojYadav2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3524-find-x-value-of-array-i](https://github.com/ManojYadav2005/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ManojYadav2005/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ManojYadav2005/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManojYadav2005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
